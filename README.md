@@ -1,12 +1,12 @@
 # VisionMaths  
-**Assistive Learning Tool for Visually Impaired Students**  
+### **Assistive Learning Tool for Visually Impaired Students**  
 
 VisionMaths is an ML-powered assistive tool designed to help visually impaired students learn mathematics through an accessible interface. The solution integrates **Computer Vision (CNN)** for mathematical expression recognition and supports **Braille system integration** for enhanced learning.  
 
 ---
 
 ## 🚧 Deployment Status  
-**Deployment in Progress**  
+### **Deployment in Progress**  
 We are currently working on hosting the web application using **Streamlit Cloud / GitHub Pages** for public access. The live link will be added soon.  
 
 ---
