@@ -1,3 +1,7 @@
+# This code is an API that receives an image and detects whether it contains Braille, handwritten text, or printed text. 
+# If it’s Braille, we’ll later convert it to text. For handwritten text, we use EasyOCR because it’s deep-learning-based 
+# and better at handwriting. For printed text, we use Tesseract. We also used OpenCV to detect Braille dots.
+
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pytesseract
