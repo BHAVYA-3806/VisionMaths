@@ -1,3 +1,5 @@
+// uploading an image, performing OCR on it using Tesseract.js, and reading the detected text aloud using speech synthesis
+
 import React, { useState } from 'react';
 import Tesseract from 'tesseract.js';
 
