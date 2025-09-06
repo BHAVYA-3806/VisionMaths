@@ -1,3 +1,6 @@
+// Provides course browsing functionality, allows filtering by class and subject, supports voice commands, 
+// and navigates to a video player page if a video exists for the selected course.
+
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { courses } from "./data";
